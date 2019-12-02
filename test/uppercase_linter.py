@@ -16,7 +16,6 @@ def main() -> None:
 
     with open(filename, 'w') as output_file:
         output_file.write(contents.upper())
-     cout<<"ya se que no es c++ pero HOLA MUNDO";
 
 
 if __name__ == '__main__':
